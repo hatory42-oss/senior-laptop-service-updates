@@ -1,5 +1,5 @@
 {
-  "version": "0.20.3",
-  "script_url": "https://raw.githubusercontent.com/hatory42-oss/senior-laptop-service-updates/main/SeniorLaptopService-0.20.3.ps1",
-  "sha256": "89A256F6D796B9D9C5B902880BFBFA544CA0241B7A764139F8E1B8D2E59A9D59"
+  "version": "0.20.4",
+  "url": "https://raw.githubusercontent.com/hatory42-oss/senior-laptop-service-updates/main/SeniorLaptopService-0.20.4.ps1",
+  "sha256": "E207FB47CB680C7739E2B15EAA70BB37CC509DFCBB503A6CE0E2D5F1A5652231"
 }
